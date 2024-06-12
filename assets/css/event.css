@@ -11411,7 +11411,7 @@ textarea.form-control {
   position: relative;
   height: 100vh;
   min-height: 500px;
-  background: url(../imgs/_745bb5e2-0b66-4026-9970-5260d50c5134.jpeg) no-repeat center center fixed;
+  background: url(assets/imgs/_745bb5e2-0b66-4026-9970-5260d50c5134.jpeg) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
 }
